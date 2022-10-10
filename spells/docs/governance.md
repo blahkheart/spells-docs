@@ -1,10 +1,10 @@
 ---
-sidebar_position: 1
+sidebar_position: 4 
 ---
 
-# Tutorial Intro
+# Governance
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Peep the Spells **DAO in less than 5 minutes**.
 
 ## Getting Started
 
